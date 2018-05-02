@@ -1,13 +1,13 @@
-# qtum-opcodes-js
-The QTUM opcodes map
+# recrypt-opcodes-js
+The RECRYPT opcodes map
 
 ## Installation
 ``` bash
-npm install qtum-opcodes
+npm install recrypt-opcodes
 ```
 
 ## Setup
 ### Node.js
 ``` javascript
-var ops = require('qtum-opcodes')
+var ops = require('recrypt-opcodes')
 ```

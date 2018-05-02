@@ -1,23 +1,23 @@
 {
-  "name": "qtum-opcodes",
+  "name": "recrypt-opcodes",
   "version": "1.0.0",
-  "description": "The QTUM opcodes map",
+  "description": "The RECRYPT opcodes map",
   "main": "./index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qtumproject/qtum-opcodes-js.git"
+    "url": "git+https://github.com/recryptproject/recrypt-opcodes-js.git"
   },
   "keywords": [
-    "qtum",
+    "recrypt",
     "opcodes"
   ],
-  "author": "Qtum Weiyu",
+  "author": "Recrypt Weiyu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qtumproject/qtum-opcodes-js/issues"
+    "url": "https://github.com/recryptproject/recrypt-opcodes-js/issues"
   },
-  "homepage": "https://github.com/qtumproject/qtum-opcodes-js#readme"
+  "homepage": "https://github.com/recryptproject/recrypt-opcodes-js#readme"
 }
